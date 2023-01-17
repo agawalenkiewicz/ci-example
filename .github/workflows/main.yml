@@ -5,7 +5,6 @@ on: push
 
 # now define a single job called 'build' (but could define more)
 jobs:
-
   build:
     strategy:
     matrix:
